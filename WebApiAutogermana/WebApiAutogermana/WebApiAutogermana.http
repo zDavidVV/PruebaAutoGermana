@@ -1,0 +1,6 @@
+@WebApiAutogermana_HostAddress = http://localhost:5157
+
+GET {{WebApiAutogermana_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

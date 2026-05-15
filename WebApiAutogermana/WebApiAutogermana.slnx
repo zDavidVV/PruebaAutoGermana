@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="Autogermana.Application/Autogermana.Application.csproj" />
+    <Project Path="Autogermana.Domain/Autogermana.Domain.csproj" />
+    <Project Path="Autogermana.Infrastructure/Autogermana.Infrastructure.csproj" />
+    <Project Path="WebApiAutogermana/WebApiAutogermana.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="TestAutogermana/TestAutogermana.csproj" />
+  </Folder>
+</Solution>
